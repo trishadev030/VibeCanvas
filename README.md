@@ -69,7 +69,7 @@ npm run dev
 
 - Moodboard images may not render in deployed version  
 - OAuth callback flow may fail in local environment
-- 
+  
 # Team
 Meghana K C   
 Romita Sarkar                                                                                                                 
