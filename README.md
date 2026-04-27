@@ -47,6 +47,7 @@ cp .env.example .env
 # Environment Variables
 
 SPOTIFY_CLIENT_ID=your_spotify_client_id
+
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 OPENAI_API_KEY=your_openai_api_key
 
@@ -57,9 +58,11 @@ npm run dev
 # Team
 Meghana K C   
 Romita Sarkar 
+
 Trisha Dev
 
 Guided by: Dr. Srinivasa N & Mr. Pavan Kumar S P
+
 Institution: Nitte Meenakshi Institute of Technology, Bengaluru
 
 # Future Enhancements
