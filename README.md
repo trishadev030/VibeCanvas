@@ -6,6 +6,8 @@ VibeCanvas is a full-stack AI-powered web application that generates personalize
 
 Live Demo: https://vibecanvas.vercel.app
 
+<img width="469" height="630" alt="Screenshot 2026-04-27 110808" src="https://github.com/user-attachments/assets/2002ef1c-7db7-40f8-8b05-47402266fde1" />
+
 Features
 Mood-based playlist generation — select your mood and get curated Spotify playlists
 AI moodboards — OpenAI generates visual and textual content matching your vibe
@@ -56,6 +58,18 @@ OPENAI_API_KEY=your_openai_api_key
 
 npm run dev
 
+## How It Works
+
+1. User selects mood and language  
+2. App fetches music via Spotify API  
+3. OpenAI generates mood description and visuals  
+4. Results are displayed as playlist + moodboard
+   
+## Known Issues
+
+- Moodboard images may not render in deployed version  
+- OAuth callback flow may fail in local environment
+- 
 # Team
 Meghana K C   
 Romita Sarkar                                                                                                                 
