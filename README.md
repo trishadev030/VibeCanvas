@@ -1,4 +1,4 @@
-VibeCanvas - AI-Based Music Moodboard Generator
+## VibeCanvas - AI-Based Music Moodboard Generator
 
 Feel Every Mood, in Every Language
 
